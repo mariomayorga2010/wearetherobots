@@ -80,7 +80,7 @@
 	}
 
 	#header.sticky-header.transparent-header.sticky-transparent #header-wrap {
-		background-color: transparent;
+		background-color: #000;
 		box-shadow: none;
 	}
 
