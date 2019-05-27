@@ -3055,8 +3055,8 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 	width: 100%;
 }
 
-.video-overlay,
-.video-placeholder {
+.video-overlay1,
+.video-placeholder1 {
 	position: absolute;
 	width: 100%;
 	height: 100%;
