@@ -18,7 +18,7 @@ $mensaje .= "Teléfono: " . $telefono . " \r\n";
 $mensaje .= "Mensaje: " . $mensaje . " \r\n";
 $mensaje .= "Enviado el " . date('d/m/Y', time());
 
-$para = 'mariomayorga2010@gmail.com';
+$para = 'contacto@tizara.mx';
 $asunto = 'Mensaje de tizara.mx';
 
 if (mail($para, $asunto, utf8_decode($mensaje), $header))
