@@ -208,7 +208,7 @@
 
 	#header.transparent-header,
 	#header.semi-transparent {
-		background: #FF8300;
+		background: #000000;
 		border-bottom: 1px solid #F5F5F5;
 		z-index: auto;
 	}
@@ -705,7 +705,7 @@
 		top: 0;
 		left: 0;
 		width: 100%;
-		background-color: #FF8300;
+		background-color: #000000;
 		border-bottom: 1px solid #EEE;
 		-webkit-backface-visibility: hidden;
 	}
