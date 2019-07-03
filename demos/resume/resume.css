@@ -75,7 +75,7 @@
 
 	#primary-menu ul li:hover > a,
 	#primary-menu ul li.current > a {
-		background-color: #ec8117;
+		background-color: darkslategray;
 		color: #FFF !important;
 	}
 
