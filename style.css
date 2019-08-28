@@ -6779,7 +6779,7 @@ body:not(.device-touch) .button {
 }
 
 .button.button-3d:hover {
-	background-color: #1ABC9C !important;
+	background-color: #ea8118 !important;
 	opacity: 0.9;
 }
 
